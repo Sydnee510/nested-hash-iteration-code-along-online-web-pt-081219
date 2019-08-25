@@ -21,6 +21,7 @@ if person == "Freddy Mercury"
 if attribute == :favorite_ice_cream_flavors      
       binding.pry
     end
+    end
   end
 end
 end
